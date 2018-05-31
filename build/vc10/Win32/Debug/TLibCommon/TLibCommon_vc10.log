@@ -1,0 +1,69 @@
+﻿生成启动时间为 2018/5/15 17:01:35。
+     1>项目“E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\vc10\TLibCommon_vc10.vcxproj”在节点 3 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\..\source\Lib\\" /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\\" /Fd"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\Lib\libmd5\libmd5.c
+         libmd5.c
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\..\source\Lib\\" /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\\" /Fd"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibCommon\ContextModel.cpp ..\..\source\Lib\TLibCommon\ContextModel3DBuffer.cpp ..\..\source\Lib\TLibCommon\Debug.cpp ..\..\source\Lib\TLibCommon\SEI.cpp ..\..\source\Lib\TLibCommon\TComBitStream.cpp ..\..\source\Lib\TLibCommon\TComCABACTables.cpp ..\..\source\Lib\TLibCommon\TComChromaFormat.cpp ..\..\source\Lib\TLibCommon\TComDataCU.cpp ..\..\source\Lib\TLibCommon\TComInterpolationFilter.cpp ..\..\source\Lib\TLibCommon\TComLoopFilter.cpp ..\..\source\Lib\TLibCommon\TComMotionInfo.cpp ..\..\source\Lib\TLibCommon\TComPattern.cpp ..\..\source\Lib\TLibCommon\TComPic.cpp ..\..\source\Lib\TLibCommon\TComPicSym.cpp ..\..\source\Lib\TLibCommon\TComPicYuv.cpp ..\..\source\Lib\TLibCommon\TComPicYuvMD5.cpp ..\..\source\Lib\TLibCommon\TComPrediction.cpp ..\..\source\Lib\TLibCommon\TComRdCost.cpp ..\..\source\Lib\TLibCommon\TComRdCostWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComRom.cpp ..\..\source\Lib\TLibCommon\TComSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibCommon\TComSlice.cpp ..\..\source\Lib\TLibCommon\TComTrQuant.cpp ..\..\source\Lib\TLibCommon\TComTU.cpp ..\..\source\Lib\TLibCommon\TComWeightPrediction.cpp ..\..\source\Lib\TLibCommon\TComYuv.cpp
+         TComYuv.cpp
+         TComWeightPrediction.cpp
+         TComTU.cpp
+         TComTrQuant.cpp
+         TComSlice.cpp
+         TComSampleAdaptiveOffset.cpp
+         TComRom.cpp
+         TComRdCostWeightPrediction.cpp
+         TComRdCost.cpp
+         TComPrediction.cpp
+         TComPicYuvMD5.cpp
+         TComPicYuv.cpp
+         TComPicSym.cpp
+         TComPic.cpp
+         TComPattern.cpp
+         TComMotionInfo.cpp
+         TComLoopFilter.cpp
+         TComInterpolationFilter.cpp
+         TComDataCU.cpp
+         TComChromaFormat.cpp
+         正在生成代码...
+         正在编译...
+         TComCABACTables.cpp
+         TComBitStream.cpp
+         SEI.cpp
+         Debug.cpp
+         ContextModel3DBuffer.cpp
+         ContextModel.cpp
+         正在生成代码...
+       Lib:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lib" /NOLOGO "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\libmd5.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\ContextModel.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\ContextModel3DBuffer.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\Debug.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\SEI.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComBitStream.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComCABACTables.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComChromaFormat.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComDataCU.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComInterpolationFilter.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComLoopFilter.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComMotionInfo.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComPattern.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComPic.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComPicSym.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComPicYuv.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComPicYuvMD5.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComPrediction.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComRdCost.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComRdCostWeightPrediction.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComRom.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComSampleAdaptiveOffset.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComSlice.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComTrQuant.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComTU.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComWeightPrediction.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TComYuv.obj"
+         TLibCommon_vc10.vcxproj -> E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibCommon\TLibCommon.lib
+     1>已完成生成项目“E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\vc10\TLibCommon_vc10.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.23

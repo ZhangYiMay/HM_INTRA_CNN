@@ -1,0 +1,50 @@
+﻿生成启动时间为 2018/5/15 17:01:35。
+     1>项目“E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\vc10\TLibEncoder_vc10.vcxproj”在节点 5 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\..\source\Lib\\" /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\..\compat\msvc" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\\" /Fd"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\source\Lib\TLibEncoder\NALwrite.cpp ..\..\source\Lib\TLibEncoder\SEIwrite.cpp ..\..\source\Lib\TLibEncoder\SyntaxElementWriter.cpp ..\..\source\Lib\TLibEncoder\TEncAnalyze.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABAC.cpp ..\..\source\Lib\TLibEncoder\TEncBinCoderCABACCounter.cpp ..\..\source\Lib\TLibEncoder\TEncCavlc.cpp ..\..\source\Lib\TLibEncoder\TEncCu.cpp ..\..\source\Lib\TLibEncoder\TEncEntropy.cpp ..\..\source\Lib\TLibEncoder\TEncGOP.cpp ..\..\source\Lib\TLibEncoder\TEncPic.cpp ..\..\source\Lib\TLibEncoder\TEncPreanalyzer.cpp ..\..\source\Lib\TLibEncoder\TEncRateCtrl.cpp ..\..\source\Lib\TLibEncoder\TEncSampleAdaptiveOffset.cpp ..\..\source\Lib\TLibEncoder\TEncSbac.cpp ..\..\source\Lib\TLibEncoder\TEncSearch.cpp ..\..\source\Lib\TLibEncoder\TEncSlice.cpp ..\..\source\Lib\TLibEncoder\TEncTop.cpp ..\..\source\Lib\TLibEncoder\WeightPredAnalysis.cpp
+         WeightPredAnalysis.cpp
+         TEncTop.cpp
+         TEncSlice.cpp
+         TEncSearch.cpp
+         TEncSbac.cpp
+         TEncSampleAdaptiveOffset.cpp
+         TEncRateCtrl.cpp
+         TEncPreanalyzer.cpp
+         TEncPic.cpp
+         TEncGOP.cpp
+         TEncEntropy.cpp
+         TEncCu.cpp
+         TEncCavlc.cpp
+         TEncBinCoderCABACCounter.cpp
+         TEncBinCoderCABAC.cpp
+         TEncAnalyze.cpp
+         SyntaxElementWriter.cpp
+         SEIwrite.cpp
+         NALwrite.cpp
+         正在生成代码...
+       Lib:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.lib" /NOLOGO "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\NALwrite.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\SEIwrite.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\SyntaxElementWriter.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncAnalyze.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncBinCoderCABAC.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncBinCoderCABACCounter.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncCavlc.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncCu.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncEntropy.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncGOP.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncPic.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncPreanalyzer.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncRateCtrl.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncSampleAdaptiveOffset.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncSbac.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncSearch.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncSlice.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TEncTop.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\WeightPredAnalysis.obj"
+         TLibEncoder_vc10.vcxproj -> E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\\vc10\Win32\Debug\TLibEncoder\TLibEncoder.lib
+     1>已完成生成项目“E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN\build\vc10\TLibEncoder_vc10.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:09.30

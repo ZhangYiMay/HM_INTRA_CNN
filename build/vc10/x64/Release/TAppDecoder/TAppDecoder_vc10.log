@@ -1,0 +1,23 @@
+﻿生成启动时间为 2018/5/31 12:13:58。
+     1>项目“E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\vc10\TAppDecoder_vc10.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\..\source\Lib\\" /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\..\compat\msvc" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /GL /D WIN32 /D _CONSOLE /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TAppDecoder\\" /Fd"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TAppDecoder\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\source\App\TAppDecoder\decmain.cpp ..\..\source\App\TAppDecoder\TAppDecCfg.cpp ..\..\source\App\TAppDecoder\TAppDecTop.cpp
+         decmain.cpp
+         TAppDecCfg.cpp
+         TAppDecTop.cpp
+       Link:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\..\bin\vc10\x64\Release\TAppDecoder.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\..\bin\vc10\x64\Release\TAppDecoder.pdb" /SUBSYSTEM:CONSOLE /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\..\bin\vc10\x64\Release\TAppDecoder.lib" /MACHINE:X64 "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TAppDecoder\decmain.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TAppDecoder\TAppDecCfg.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TAppDecoder\TAppDecTop.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\vc10\x64\Release\TAppCommon\TAppCommon.lib"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\vc10\x64\Release\TLibCommon\TLibCommon.lib"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\vc10\x64\Release\TLibDecoder\TLibDecoder.lib"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\vc10\x64\Release\TLibVideoIo\TLibVideoIO.lib"
+         正在生成代码
+         已完成代码的生成
+         TAppDecoder_vc10.vcxproj -> E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\..\bin\vc10\x64\Release\TAppDecoder.exe
+     1>已完成生成项目“E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\vc10\TAppDecoder_vc10.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.60

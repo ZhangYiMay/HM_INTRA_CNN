@@ -1,0 +1,35 @@
+﻿生成启动时间为 2018/5/31 12:13:52。
+     1>项目“E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\vc10\TLibDecoder_vc10.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\..\source\Lib\\" /I"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\..\compat\msvc" /Zi /nologo /W3 /WX- /O2 /Ob2 /Ot /GL /D WIN32 /D _LIB /D _CRT_SECURE_NO_WARNINGS /D _MBCS /GF /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\\" /Fd"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\vc120.pdb" /Gd /TP /errorReport:prompt ..\..\source\Lib\TLibDecoder\AnnexBread.cpp ..\..\source\Lib\TLibDecoder\NALread.cpp ..\..\source\Lib\TLibDecoder\SEIread.cpp ..\..\source\Lib\TLibDecoder\SyntaxElementParser.cpp ..\..\source\Lib\TLibDecoder\TDecBinCoderCABAC.cpp ..\..\source\Lib\TLibDecoder\TDecCAVLC.cpp ..\..\source\Lib\TLibDecoder\TDecCu.cpp ..\..\source\Lib\TLibDecoder\TDecEntropy.cpp ..\..\source\Lib\TLibDecoder\TDecGop.cpp ..\..\source\Lib\TLibDecoder\TDecSbac.cpp ..\..\source\Lib\TLibDecoder\TDecSlice.cpp ..\..\source\Lib\TLibDecoder\TDecTop.cpp
+         AnnexBread.cpp
+         NALread.cpp
+         SEIread.cpp
+         SyntaxElementParser.cpp
+         TDecBinCoderCABAC.cpp
+         TDecCAVLC.cpp
+         TDecCu.cpp
+         TDecEntropy.cpp
+         TDecGop.cpp
+         TDecSbac.cpp
+         TDecSlice.cpp
+         TDecTop.cpp
+       Lib:
+         D:\Program Files\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\Lib.exe /OUT:"E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TLibDecoder.lib" /NOLOGO /MACHINE:X64 /LTCG "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\AnnexBread.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\NALread.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\SEIread.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\SyntaxElementParser.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TDecBinCoderCABAC.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TDecCAVLC.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TDecCu.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TDecEntropy.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TDecGop.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TDecSbac.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TDecSlice.obj"
+         "E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TDecTop.obj"
+         TLibDecoder_vc10.vcxproj -> E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\\vc10\x64\Release\TLibDecoder\TLibDecoder.lib
+     1>已完成生成项目“E:\Grade2-Research\CNNBasedIntraPrediction\HM-16.0-SRCNN - 副本\build\vc10\TLibDecoder_vc10.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.76
